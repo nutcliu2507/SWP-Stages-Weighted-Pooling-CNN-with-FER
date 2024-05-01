@@ -1,11 +1,15 @@
-# SWP-StagesWeightsPooling  
-FacialExpressionRecognition  
+# SWP:Stages Weights Pooling  
+@Facial Expression Recognition  
+![image](https://github.com/nutcliu2507/SWP-Stages-Weighted-Pooling-CNN-with-FER/blob/main/SWP.png)
   
   
   
   
-  
-  
+
+
+
+best@RAF-db
+![image](https://github.com/nutcliu2507/SWP-Stages-Weighted-Pooling-CNN-with-FER/blob/main/raf_best.png)
   
   
 Environment  
