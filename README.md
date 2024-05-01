@@ -8,22 +8,15 @@ RAF-db: [download](https://drive.google.com/file/d/1kKSf6heqtlzXkm0DB4nZWJnUyw0B
 
   
 # Environment  
-## GPU:
-Nvidia GeForce GTX 2080 Ti  
-## Python:
-3.8.5  
-## Troch:
-cu101  
-## Cuda:
-10.1  
-# Cudnn:
-v10.1.243  
+GPU: Nvidia GeForce GTX 2080 Ti  
+Python: 3.8.5  
+Troch: cu101  
+Cuda: 10.1  
+Cudnn: v10.1.243  
 
 # base install linked
-## Nvidia Driver:  
-https://www.nvidia.com/zh-tw/geforce/drivers/  
-## Python:  
-https://www.python.org/downloads/release/python-385/  
-## Cuda & Cudnn:  
+Nvidia Driver: https://www.nvidia.com/zh-tw/geforce/drivers/  
+Python: https://www.python.org/downloads/release/python-385/  
+Cuda & Cudnn:  
 https://developer.nvidia.com/cuda-toolkit-archive  
 https://developer.nvidia.com/rdp/cudnn-archive  
