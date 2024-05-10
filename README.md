@@ -9,12 +9,12 @@ RAF-db: [download](https://drive.google.com/file/d/1kKSf6heqtlzXkm0DB4nZWJnUyw0B
 
   
 # Environment  
-OS: Windows 10
+OS: Windows 10  
 GPU: Nvidia GeForce GTX 2080 Ti  
 Python: 3.8.5  
-Troch: cu101  
-Cuda: 10.1  
-Cudnn: v10.1.243  
+Troch: 1.7.1+cu110  
+Cuda: 11.1.1_456.81  
+Cudnn: v8.0.4.300
 
 # Base install linked
 Nvidia Driver:  
